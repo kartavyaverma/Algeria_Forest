@@ -1,4 +1,4 @@
-# Algerian Forest Fire Prediction 🔥
+# Algerian Forest Fire Predictions
 
 This project is an **end-to-end Machine Learning web application** that predicts the **Fire Weather Index (FWI)** using environmental features such as temperature, humidity, wind speed, and rainfall.
 
